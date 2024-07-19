@@ -1,0 +1,17 @@
+{
+  "name": "assignment29",
+  "version": "1.0.0",
+  "description": "Favorite Fruit: Make a array of your favorite fruits, and then write a series of independent if statements that check for certain fruits in your array.\r • Make a array of your three favorite fruits and call it favorite_fruits.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
+
+
+
+

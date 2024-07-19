@@ -1,0 +1,12 @@
+{
+  "name": "assignment31",
+  "version": "1.0.0",
+  "description": "No Users: Add an if test to Exercise 28 to make sure the list of users is not empty.\r • If the list is empty, print the message We need to find some users!",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
